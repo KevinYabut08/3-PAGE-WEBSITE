@@ -1,2 +1,2 @@
-CPNT-260-A
-  Hero Section with Call-to-Action
+#CPNT-260-A
+Hero Section with Call-to-Action
